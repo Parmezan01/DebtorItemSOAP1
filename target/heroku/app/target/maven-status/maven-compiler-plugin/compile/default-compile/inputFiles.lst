@@ -1,6 +1,7 @@
 /home/borzeromero/IdeaProjects/DebtorItemSOAP/src/main/java/com/trex/cashcol/ObjectFactory.java
 /home/borzeromero/IdeaProjects/DebtorItemSOAP/src/main/java/debtorItem/WebServiceConfig.java
 /home/borzeromero/IdeaProjects/DebtorItemSOAP/src/main/java/debtorItem/Application.java
+/home/borzeromero/IdeaProjects/DebtorItemSOAP/src/main/java/com/trex/cashcol/package-info.java
 /home/borzeromero/IdeaProjects/DebtorItemSOAP/src/main/java/com/trex/cashcol/GetDebtorItemRequest.java
 /home/borzeromero/IdeaProjects/DebtorItemSOAP/src/main/java/debtorItem/DebtorItemRepository.java
 /home/borzeromero/IdeaProjects/DebtorItemSOAP/src/main/java/debtorItem/DebtorItemEndpoint.java

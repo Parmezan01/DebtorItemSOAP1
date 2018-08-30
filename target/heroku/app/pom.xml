@@ -81,7 +81,7 @@
                 <configuration>
                     <appName>DebtorItemSOAP</appName>
                     <processTypes>
-                        <web>java $JAVA_OPTS -cp target/classes:target/dependency/* Application</web>
+                        <web>java $JAVA_OPTS -cp target/classes:target/dependency/* DebtorItemSOAP.jar</web>
                     </processTypes>
                 </configuration>
             </plugin>

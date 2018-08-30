@@ -5,4 +5,5 @@ com/trex/cashcol/DebtorItem.class
 com/trex/cashcol/GetDebtorItemRequest.class
 debtorItem/WebServiceConfig.class
 debtorItem/DebtorItemEndpoint.class
+com/trex/cashcol/package-info.class
 com/trex/cashcol/GetDebtorItemResponse.class

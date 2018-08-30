@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="DebtorItemSOAP">
+    <output-path>$PROJECT_DIR$/out/artifacts/DebtorItemSOAP</output-path>
+    <root id="archive" name="DebtorItemSOAP.war" />
+  </artifact>
+</component>

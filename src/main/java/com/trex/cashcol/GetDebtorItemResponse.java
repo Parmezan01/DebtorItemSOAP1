@@ -75,7 +75,4 @@ public class GetDebtorItemResponse {
         return this.debtorItem;
     }
 
-    public void setDebtorItem(List<DebtorItem> debtorItem) {
-        this.debtorItem = debtorItem;
-    }
 }

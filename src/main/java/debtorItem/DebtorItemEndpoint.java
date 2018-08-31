@@ -25,7 +25,7 @@ public class DebtorItemEndpoint {
     @ResponsePayload
     public GetDebtorItemResponse getDebtorItem(@RequestPayload GetDebtorItemRequest request) throws DatatypeConfigurationException {
         GetDebtorItemResponse response = new GetDebtorItemResponse();
-        response.setDebtorItem(debtorItemRepository.findDebtorItems(request.getCustomerID()));
+        response.getDebtorItem().addAll(debtorItemRepository.findDebtorItems(request.getCustomerID()));
 
         return response;
     }
